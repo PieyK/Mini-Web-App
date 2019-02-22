@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    background: #e6eaf0;
+}
+
+button {
+    margin: 20px;
+    width: 150px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 10px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+button:focus {
+    outline: none;
+}
+
+input {
+    font-size: 24px;
+}
+
+.fill {
+    background: rgb(252, 249, 249);
+    color: rgb(243, 70, 70);
+    border-bottom: 1px solid black;
+    font-family: 'Shadows Into Light', cursive;
+    padding: 0 6px;
+    margin: 4px;
+}
