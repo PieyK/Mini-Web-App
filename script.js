@@ -4,7 +4,7 @@ var prompts = [
     "Woher kommen Sie?",
     "Wo wohnen Sie?",
     "Lieblingsfilm",
-    "Chai oder Caffe?"
+    "Chai oder Mocha?"
 ];
 
 var answers = [];
